@@ -1,0 +1,18 @@
+{
+  ".gitignore": "2ccde0ef0483716572edaea50a2137d20ab49e336992f4144b037157298e589b",
+  "CITATION.cff": "d84f6d97de202ad8fe4256c9cb71d049599e557529ed0caf9a2485469c81aed3",
+  "NOTICE.md": "32ae857357a7cc10bfae3b2c6f311512cd300756cd30a7bf9b7f2a66746fc656",
+  "pyproject.toml": "82563c9a015f82d87ece2188bd8f48c916efb93ed6bdfafc20ce3a26d337dec4",
+  "README.md": "b1f83eef6a0511b4911cb637be1db854445e4873c8bee3843f17a06071e3f77b",
+  "configs/stage1.json": "1ddd4285d9f7afb96da1c223d487021b22d473a015a8c2309e2590760530c1c5",
+  "configs/stage2.json": "1e3c746cb02572811357c0dc308aadcdccc99573fa562ce674a3e9399f691653",
+  "src/crc_ln/data.py": "f816d5f251062f9c561e336d5c75001895148cc5af0730f48292e529e4c08446",
+  "src/crc_ln/engine.py": "633c0b609ccd9d182b288fb6e6c68a194ccdd8f076a9baf701200cbe1267efd3",
+  "src/crc_ln/metrics.py": "01ca2ee52be2884fb18114ada24efe4be91665f5e709b176fcd0822cadd93492",
+  "src/crc_ln/model.py": "d913ef863f15e2ffddeebda2d7a2473bb7c50434ba4c87ca12e56b93bbd291ed",
+  "src/crc_ln/predict.py": "4c406521a28d32267e11b27762d12b81c91db62375445563de19dd1a10dcab45",
+  "src/crc_ln/preprocess.py": "4344854ee218b1ff4a7f1e3976fef8ab2623f50eebdf8ce18f6c086d53dd557a",
+  "src/crc_ln/train.py": "f3315391ffeae59f274e0dbcfcb68bbe0e8fd497161c650b90c21da63ff6f09e",
+  "src/crc_ln/_components.py": "92f66e7e3ec0ea4b7b6ca6ca0dbc6f67c187f03e20182e49c5006d2a1a180ac8",
+  "src/crc_ln/__init__.py": "7a1c7aa1f65e8ff8de519d6d44216c467f046a4102d27a1f1bd5c879d9434227"
+}

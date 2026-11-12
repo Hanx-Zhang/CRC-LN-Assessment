@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crc-ln-assessment"
+version = "0.3.0"
+description = "Phase-aware CT and optical graph learning for colorectal lymph node assessment"
+requires-python = ">=3.10"
+dependencies = ["torch>=2.2,<3", "torchvision>=0.17,<1", "numpy>=1.24,<3", "Pillow>=10,<12"]
+
+[project.scripts]
+crc-ln-train = "crc_ln.train:main"
+crc-ln-predict = "crc_ln.predict:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
