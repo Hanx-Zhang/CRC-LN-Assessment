@@ -1,6 +1,6 @@
 # CRC-LN-Assessment
 
-**Multimodal learning across preoperative CT and intraoperative optical imaging for colorectal lymph node assessment**
+**Colorectal lymph node assessment**
 
 PyTorch implementation of patient-level CT and optical learning. The diagnostic network combines phase-aware CT aggregation, optical multiple-instance pooling and cross-modal residual fusion. Available branches provide predictions when an input modality is missing.
 
